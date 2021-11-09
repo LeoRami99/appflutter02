@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513494498552",
+    "project_id": "flutterformulario",
+    "storage_bucket": "flutterformulario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513494498552:android:1e826a134ffbda94c78f0d",
+        "android_client_info": {
+          "package_name": "com.udec.formularioprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513494498552-5u3h4isr70g54ignk0u0s50iqb152vm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZnUlnCebgJYtCYpcaL_NgEkUOcYSaos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513494498552-5u3h4isr70g54ignk0u0s50iqb152vm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
