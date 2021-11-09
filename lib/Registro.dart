@@ -26,7 +26,7 @@ class RegistroApp extends State<Registro>{
       print(e);
     }
   }
-
+// cambio 6
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
